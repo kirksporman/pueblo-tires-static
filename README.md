@@ -40,3 +40,9 @@ Defined as CSS variables at the top of `css/styles.css`: `--red #DA281B`, `--yel
 - `index.html`: the first hero slide and the Pueblo card image load from `treadpartners.com/wp-content/uploads/`. Move those two files into `img/` if you want the repo self-contained.
 - Anchors that are still `#` (coupon actions, tips guides, careers, fleet, financing) need their destination pages.
 - Location template: duplicate `location-edinburg.html` per store and update the name, address, phone, hours, map, coupons and reviews.
+
+# Changelog
+
+## 2.0.1 (2026-11-13)
+chore: remove homepage concept index file
+
